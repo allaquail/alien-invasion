@@ -15,3 +15,5 @@ Thumbs.db
 # Секреты
 .env
 *.key
+desktop.ini
+/desktop.ini
